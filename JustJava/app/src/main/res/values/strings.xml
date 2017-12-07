@@ -1,0 +1,32 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">Just Java</string>
+
+    <string name="edit_text_hint">Enter Your Name</string>
+
+    <!-- Header text for list of toppings  [CHAR LIMIT=20]-->
+    <string name="toppings">Toppings</string>
+
+    <string name="whipped_cream">Whipped Cream</string>
+
+    <string name="chocolate">Chocolate</string>
+
+    <string name="quantity">Quantity</string>
+
+    <string name="order_summary">Order Summary</string>
+
+    <string name="order">Order</string>
+
+    <string name="order_summary_name">Name : <xliff:g id="name_field" example="Amy">%s</xliff:g></string>
+
+    <string name="order_summary_whipped_cream">Has Whipped Cream</string>
+
+    <string name="order_summary_chocolate">Has Chocolate</string>
+
+    <string name="total_price">Total Price : $</string>
+
+    <string name="thank_you">Thank You!</string>
+
+    <string name="email_subject">Just Java order for </string>
+
+</resources>

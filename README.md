@@ -23,11 +23,11 @@
     * **Allow USB debugging**. 
     * **Run** the project from the Android Studio IDE.
     
-## Desription
-###1.Birthday Card
-        A simple Layout of a Birthday Card.
-###2.CourtCounter
-        A score counter for a BasketBall Game
-###3.Just Java
-        A simple application for ordering coffee drinks.
-        It has a feature of mailing the order details.
+## Description
+### 1.Birthday Card
+    A simple Layout of a Birthday Card.
+### 2.CourtCounter
+    A score counter for a BasketBall Game
+### 3.Just Java
+    A simple application for ordering coffee drinks.
+    It has a feature of mailing the order details.
